@@ -1,0 +1,38 @@
+# Gradle
+.gradle/
+*/build/
+
+# Keystore files (DON'T COMMIT THIS FILE!)
+*.jks
+*.keystore
+*.key
+
+# Android Studio/IntelliJ
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# VS Code
+.vscode/
+
+# Local properties (contains local SDK info)
+local.properties
+
+# Dependency directories
+/.cxx/
+/externalNativeBuild/
+
+# Build output
+/build/
+*.apk
+*.aab
+*.dex
+
+# Logs & temporary files
+*.log
+*.lock
+.DS_Store
+
+# Gradle Wrapper
+/gradle/wrapper/
