@@ -53,6 +53,9 @@ dependencies {
     // SplashScreen Api
     implementation(libs.androidx.core.splashscreen)
 
+    // Datastore
+    implementation(libs.androidx.datastore.preferences)
+
     testImplementation(libs.junit)
     androidTestImplementation(libs.androidx.junit)
     androidTestImplementation(libs.androidx.espresso.core)
